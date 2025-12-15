@@ -1,0 +1,4 @@
+
+
+void GameInit();
+void GameLoop();
