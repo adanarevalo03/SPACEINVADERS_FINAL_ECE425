@@ -6,7 +6,7 @@ My final project for ECE 425
 
 
 # INRODUCTION
-In this Final Project, I created my version of the classic game Space Invaders using the TM4C123GH6PM microcontroller. The game is displayed on a Nokia 5110 LCD and allows the player to move and shoot enemies on the screen. The goal of the game is for a single player to destroy the enemies while the difficulty increases over time. This project demonstrates how embedded systems can be utilized to develop an interactive game that leverages both hardware and software. 
+In this Final Project, I created my version of the classic game Space Invaders using the TM4C123GH6PM microcontroller. The game is displayed on a Nokia 5110 LCD and allows the player to move and shoot enemies on the screen. The objective of the game is for a single player to destroy the enemies while the difficulty increases over time. This project demonstrates how embedded systems can be utilized to develop an interactive game that leverages both hardware and software. 
 
 ---
 
