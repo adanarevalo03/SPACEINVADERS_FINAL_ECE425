@@ -68,7 +68,7 @@ One issue encountered during development was that the enemies continuously wrap 
 
 ---
 
-# Conclusions
+# Conclusion
 This final project helped me apply many of the concepts learned about embedded systems throughout the course. By creating a Space Invaders game, I was able to work with both hardware and software components, including GPIO, ADC, timers, interrupts, I2C communication, and external peripherals such as a DAC, audio amplifier, and LCD. The project demonstrated how multiple peripherals can collaborate to create an interactive embedded system.
 Overall, the project improved my understanding of microcontroller programming, hardware interfacing, and system integration. The challenges encountered during development strengthened my debugging and problem-solving skills. This project was a valuable learning experience and helped reinforce the practical use of embedded systems.
 
