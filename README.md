@@ -11,7 +11,7 @@ In this Final Project, I created my version of the classic game Space Invaders u
 ---
 
 # Background & Methodology
-This project utilizes several embedded systems concepts learned during the semester, including I/O control, timers, interrupts, analog signals, and graphics. The final result is a fully working Space Invaders game that includes a menu, sound effects, and increasing difficulty as the game progresses. The hardware used in this project includes the TM4C123GH6PM microcontroller, a Nokia 5110 LCD for Displaying a graphics, a potentiometer to control plater movement, EduBase push buttons to fire, a 12-bit DAC to generate sound, and a PAM8409 amplifier to make the audio loud enough for a speaker.
+This project utilizes several embedded systems concepts learned during the semester, including I/O control, timers, interrupts, analog signals, and graphics. The final result is a fully working Space Invaders game that includes a menu, sound effects, and increasing difficulty as the game progresses. The hardware used in this project includes the TM4C123GH6PM microcontroller, a Nokia 5110 LCD for displaying graphics, a potentiometer to control plater movement, EduBase push buttons to fire, a 12-bit DAC to generate sound, and a PAM8409 amplifier to make the audio loud enough for a speaker.
 ## The Peripherals used:
 1. GPIO for reading the buttons and controlling signals.
 2. ADC for reading the Potentiometer
